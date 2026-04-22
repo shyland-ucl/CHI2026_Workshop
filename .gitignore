@@ -1,0 +1,28 @@
+# Local agent config
+.claude/
+
+# Reviews and supplementary papers (not for public repo)
+reviews&paper/
+
+# LaTeX build artefacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.nav
+*.snm
+*.vrb
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*~
