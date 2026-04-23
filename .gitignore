@@ -4,6 +4,9 @@
 # Reviews and supplementary papers (not for public repo)
 reviews&paper/
 
+# Reference PDFs (copyrighted; kept locally, not committed)
+References/
+
 # LaTeX build artefacts
 *.aux
 *.log
